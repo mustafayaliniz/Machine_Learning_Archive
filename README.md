@@ -4,7 +4,7 @@ Bu depo, Python kullanılarak geliştirilmiş çeşitli regresyon tekniklerini i
 
 ## Author
 
-- **Mustafa Yalıniz** - [mustafayaliniz](https://github.com/mustafayaliniz)
+- **Mustafa Yalınız** - [mustafayaliniz](https://github.com/mustafayaliniz)
 
 ## Lisans
 
